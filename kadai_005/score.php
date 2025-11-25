@@ -1,33 +1,23 @@
 <?php
-echo $score1 = 80;
-echo '<br>';
+$score1 = 80;
 
-echo $score2 = 60;
-echo '<br>';
+$score2 = 60;
 
-echo $score3 = 55;
-echo '<br>';
+$score3 = 55;
 
-echo $score4 = 40;
-echo '<br>';
+$score4 = 40;
 
-echo $score5 = 100;
-echo '<br>';
+$score5 = 100;
 
-echo $score6 = 25;
-echo '<br>';
+$score6 = 25;
 
-echo $score7 = 80;
-echo '<br>';
+$score7 = 80;
 
-echo $score8 = 95;
-echo '<br>';
+$score8 = 95;
 
-echo $score9 = 30;
-echo '<br>';
+$score9 = 30;
 
-echo $score10 = 60;
-echo '<br>';
+$score10 = 60;
 
 echo $all_score = $score1 + $score2 + $score3 + $score4 + $score5 + $score6 + $score7 + $score8 + $score9 + $score10;
 echo '<br>';
